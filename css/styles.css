@@ -1,0 +1,24 @@
+h1 {
+    color: #fc6316;
+    border: 3px greenyellow solid;
+    font-size: 30px;
+}
+
+p {
+    font-size: 50px;
+    color: aliceblue;
+    background-color: blueviolet;
+    border: 3px black solid;
+}
+
+#qwe{
+    font-size:20px;
+    color:#fc6416;
+    border:6px brown solid;
+    background-color:pink;
+}
+.qwe1-class{
+    background-color:#fc6316;
+    border:9px black;
+    color:blue;
+}
