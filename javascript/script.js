@@ -8,3 +8,4 @@ console.log(name);
 console.log(id);
 console.log.apply(isStudent);
 console.log(sp);
+console.log("i want to become a developer");
