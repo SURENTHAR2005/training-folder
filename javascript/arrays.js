@@ -32,3 +32,6 @@ let t=delete fruits[0];
 console.log(fruits);
 console.log(t);
 
+//spread operator
+let newArray=[...fruits,"orange","mango"]
+console.log(newArray);
