@@ -19,3 +19,16 @@ console.log(len1);
 for(let i=0;i<fruits.lenght;i++){
     console.log(fruits);
 }
+
+// fruits.shift();//remove the 0 index element
+// console.log(fruits);
+// fruits.unshift();
+// console.log(fruits)
+
+let removed = fruits.slice(0,1);
+console.log(removed);
+console.log(fruits);
+let t=delete fruits[0];
+console.log(fruits);
+console.log(t);
+
